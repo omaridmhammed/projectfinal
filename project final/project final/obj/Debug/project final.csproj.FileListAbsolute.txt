@@ -1,0 +1,7 @@
+C:\Users\oidmh\OneDrive\Bureau\Projectfinalassurance qualite logiciel\project final\project final\bin\Debug\project final.exe.config
+C:\Users\oidmh\OneDrive\Bureau\Projectfinalassurance qualite logiciel\project final\project final\bin\Debug\project final.exe
+C:\Users\oidmh\OneDrive\Bureau\Projectfinalassurance qualite logiciel\project final\project final\bin\Debug\project final.pdb
+C:\Users\oidmh\OneDrive\Bureau\Projectfinalassurance qualite logiciel\project final\project final\obj\Debug\project final.csproj.AssemblyReference.cache
+C:\Users\oidmh\OneDrive\Bureau\Projectfinalassurance qualite logiciel\project final\project final\obj\Debug\project final.csproj.CoreCompileInputs.cache
+C:\Users\oidmh\OneDrive\Bureau\Projectfinalassurance qualite logiciel\project final\project final\obj\Debug\project final.exe
+C:\Users\oidmh\OneDrive\Bureau\Projectfinalassurance qualite logiciel\project final\project final\obj\Debug\project final.pdb
